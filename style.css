@@ -938,6 +938,10 @@ body {
    MEDIA QUERIES
 ========================= */
 
+/* =========================
+   FOOTER QUERIES
+========================= */
+
 @media (max-width: 1000px) {
     .footer-container {
         grid-template-columns: 1fr;
